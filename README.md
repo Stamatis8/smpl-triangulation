@@ -1,6 +1,6 @@
 # Simple Triangulation
 	
-- Minimal library for various triangulation related tasks
+- Minimal C++ library for various triangulation related tasks
 - Header only
 - Only dependancy is the standard library
 
