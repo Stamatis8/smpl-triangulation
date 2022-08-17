@@ -1,4 +1,4 @@
-# Simple Triangulation
+# Simple Triangulation (smpl_triangulation)
 	
 - Minimal C++ library for various triangulation related tasks
 - Header only
