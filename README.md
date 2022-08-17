@@ -1,2 +1,5 @@
-# smpl_triangulation
-Minimal header only library for various triangulation related tasks
+# Simple Triangulation
+	- Minimal library for various triangulation related tasks
+	- Header only
+
+# Current Capabilities
