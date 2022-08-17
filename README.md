@@ -53,6 +53,8 @@ The following example is located in `examples/example_1.cpp`. The task is to tri
 
 	return 0;
     }
+# Documentation    
+Unfortunately, no organized documentation document exists yet. However each function is documented thoroughly at its definition
 # Future
 
 - Faster orientation algorithm
