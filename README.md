@@ -17,7 +17,7 @@
 
 # Usage
 
-All files that are needed to use this library are located in `src`. Move them at some `path` where you have access and then simply `#include "path/smpl_triangulation.hpp"` at the file you want access (ie copy-paste all files from `src` in your project folder and then `#include "smpl_triangulation.hpp"`). 
+All files that are needed to use this library are located in `src`. Move them at some `path` where you have access and then simply `#include "path/smpl_triangulation.hpp"` at the file you want to use this package from (ie copy-paste all files from `src` in your project folder and then `#include "smpl_triangulation.hpp"`). 
 
 This library uses the `smpl_triangulation` namespace
 
