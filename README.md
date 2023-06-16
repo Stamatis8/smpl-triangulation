@@ -12,7 +12,7 @@
     - determines orientability of triangulation
     - orients triangulation
 
-- Triangulate 2D rectangles
+- `PlanarTriangulation.hpp` can be used to triangulate planar grids, with top-bottom or left-right stitching. Then one can edit the vertices (preserving the connectivity information) so that this triangulation can be mapped to other objects (i.e. preimage points to on-surface triangulations)
 - Create [STL](https://en.wikipedia.org/wiki/STL_(file_format)) ASCII files from triangulation
 
 # Usage
