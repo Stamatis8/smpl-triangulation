@@ -2,7 +2,7 @@
 	
 - Minimal C++ library for various triangulation related tasks
 - Header only
-- Only dependancy is the standard library
+- Only dependency is the standard library
 
 # Current Capabilities
 
@@ -25,7 +25,7 @@ There are examples in the `examples` folder for a quick start.
 
 # Overview
 
-This package is constructed around the `Triangulation<vertex type>` class located in `TriangulationClass.hpp`. The type of vertex is arbitrary, the only requirement being that is has a default constuctor `vertex()`. [This](https://doc.cgal.org/latest/TDS_2/index.html) article from CGAL's documentation was advised for the construction of the present data structure. The various other components use this class to perform various tasks.
+This package is constructed around the `Triangulation<vertex type>` class located in `TriangulationClass.hpp`. The type of vertex is arbitrary, the only requirement being that is has a default constructor `vertex()`. [This](https://doc.cgal.org/latest/TDS_2/index.html) article from CGAL's documentation was advised for the construction of the present data structure. The various other components use this class to perform various tasks.
 
 ## Simple Example
 The following example is located in `examples/example_1.cpp`. The task is to triangulate the rectangle $[0,1]\times[-1,1]$ in 50 triangles and save the result to `triangles50.stl`.
